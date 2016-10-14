@@ -5,16 +5,17 @@ ViewerImgs.py
 Visualize the images from the Udacity Challenge 2
 The images must be available in the directories left, center, right
 Require also the files camera.csv and steering.csv
--dataset
-   -left
-       --*.jpg files
-   -center
-       --*.jpg files
-   -right
-       --*.jpg files
-   -cameras.csv
-   -steering.csv
-
+<br/>
+-dataset<br/>
+   --left<br/>
+       ---*.jpg files<br/>
+   --center<br/>
+       ---*.jpg files<br/>
+   --right<br/>
+       ---*.jpg files<br/>
+   --cameras.csv<br/>
+   --steering.csv<br/>
+<br/>
 See the script bagdump.py for info on how to extract from the bag file
 available on Github:
 https://github.com/rwightman/udacity-driving-reader
